@@ -1,4 +1,4 @@
-# Chrome extntions Repository
+# Chrome Extensions Repository
 
 ## 利用法
 
