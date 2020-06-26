@@ -1,4 +1,4 @@
-# GEG Nara's Chrome extntions Repository
+# Chrome extntions Repository
 
 ## 利用法
 
