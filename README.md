@@ -12,7 +12,7 @@
 
 ## デモ
 
-[Lifegame](https://geg-nara.github.io/chrome-extension/lifegame/)
+[Lifegame](https://gdg-nara.github.io/chrome-extension/lifegame/)
 
 ## 作者
 
