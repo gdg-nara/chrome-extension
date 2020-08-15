@@ -8,7 +8,7 @@
 
 1. __Load unpacked__ をクリックする。
 
-1. 本レポジトリーを [このリンク](https://github.com/tanykazy/chrome-extension/archive/master.zip) からダウンロードして、zip ファイル内にあるフォルダを指定する。例えば、lifegame を試用する場合、lifegame フォルダを指定する。
+1. 本レポジトリーを [このリンク](https://github.com/gdg-nara/chrome-extension/archive/master.zip) からダウンロードして、zip ファイル内にあるフォルダを指定する。例えば、lifegame を試用する場合、lifegame フォルダを指定する。
 
 ## デモ
 
